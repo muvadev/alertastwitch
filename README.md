@@ -36,5 +36,7 @@ En tu cuenta de TWITCH
 
 No olvides guardar al terminas cada una para no confundirte y ser muy ordenado en seleccionar que alerta quieres cambiar con este código, ya que como lo menciono cada una tendra un código con ligeras adapteciones a lo que muestra en pantalla. 
 
+Revisa el código tanto en HTML como en CSS para que realices cambios tanto de tipografia como de colores y tamaños, estan las anotaciones de donde debes cambiar para que sea mas sencillo (es importante tener el color en código RGB para que puedas ingresarlo). 
+
 
 https://linktr.ee/muvadev
